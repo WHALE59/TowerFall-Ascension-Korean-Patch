@@ -8,6 +8,8 @@
   <sub>이미지 클릭 시 스팀 상점 페이지로 이동합니다.</sub>
 </p>
 
+---
+
 TowerFall Ascension(Dark World DLC 포함)의 한글패치 입니다.
 
 버그, 오역 등이 있다면 이슈 등록해주세요.
