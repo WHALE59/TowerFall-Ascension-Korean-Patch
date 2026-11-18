@@ -1,5 +1,13 @@
 # TowerFall Ascension 비공식 한글패치(Dark World DLC 포함)
 
+<p align="center">
+  <a href="https://store.steampowered.com/app/251470/TowerFall_Ascension/">
+    <img src="https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg" width="460" alt="TowerFall Ascension">
+  </a>
+  <br>
+  <sub>이미지 클릭 시 스팀 상점 페이지로 이동합니다.</sub>
+</p>
+
 TowerFall Ascension(Dark World DLC 포함)의 한글패치 입니다.
 
 버그, 오역 등이 있다면 이슈 등록해주세요.
