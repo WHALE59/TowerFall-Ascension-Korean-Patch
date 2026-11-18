@@ -39,12 +39,12 @@ TowerFall Ascension(Dark World DLC 포함)의 한글패치 입니다.
 ---
 # Preview
 
-![시작](./Screenshot/1.png)
-![메인](./Screenshot/2.png)
-![아카이브](./Screenshot/3.png)
-![캐릭선택](./Screenshot/4.png)
-![아카이브_월드](./Screenshot/5.png)
-![크레딧](./Screenshot/6.png)
+![시작](./Screenshot/1.jpg)
+![메인](./Screenshot/2.jpg)
+![아카이브](./Screenshot/3.jpg)
+![캐릭선택](./Screenshot/4.jpg)
+![아카이브_월드](./Screenshot/5.jpg)
+![크레딧](./Screenshot/6.jpg)
 
 ---
 # License
